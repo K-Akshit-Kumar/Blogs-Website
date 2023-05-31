@@ -13,7 +13,7 @@ This is a simple blogging website built with simplicity and ease of use in mind.
 
 To get started with the blogging website, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/blogging-website.git`
+1. Clone the repository: `git clone https://github.com/your-username/Blogs-Website.git`
 2. Install dependencies: `npm install`
 3. Configure the database connection in the `.env` file.
 4. Run the application: `npm start`
